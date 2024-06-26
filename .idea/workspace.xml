@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fdced8-4f19-4f51-9177-1eacee593aae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GebericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Ch27_for_each_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/RockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WildcardGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ch12_ps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ch13_chp3_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ch14_chp3_Stringmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ch20_chap4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ch21_chp4_loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ch_26_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/percentageCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e9fdced8-4f19-4f51-9177-1eacee593aae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
